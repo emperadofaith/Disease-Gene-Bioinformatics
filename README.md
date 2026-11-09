@@ -2,7 +2,9 @@
 # Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
 
 Name: Emperado, Faith Denielle
+
 Assigned Gene: BRCA2 
+
 Associated Disease: Hereditary breast ovarian cancer (HBOC)
 
 ## Assigned Gene and Disease
